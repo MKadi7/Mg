@@ -1,0 +1,3 @@
+- Initials: MG
+- Course Code: INFO-5146-(01)
+- Year: 2024
